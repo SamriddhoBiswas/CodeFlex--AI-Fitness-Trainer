@@ -24,6 +24,20 @@ A smart, voice-enabled AI-powered fitness app that helps users achieve their hea
 
 ---
 
+## 📄 Features
+
+- 🧠 **Smart AI Assistant**  
+  Talk to your AI assistant that listens, understands, and responds based on your fitness goals and current health conditions.
+- 🏋️ **Workout & 🥗 Diet Plans**  
+  Generates real-time, AI-curated workout and diet plans tailored to your needs and preferences.
+- 🔐 **User Auth with Clerk**  
+  Easily sign up or log in with GitHub, Google, or Email/Password. Only authenticated users can create or access fitness programs.
+- 🎬 **Program Management**  
+  Create multiple fitness programs. Automatically marks the latest one as active while preserving old ones for reference.
+
+
+---
+
 ## 🔐 .env Setup
 
 Create a `.env.local` file in the root directory and add the following (update with your credentials):
@@ -45,7 +59,7 @@ CONVEX_DEPLOYMENT_NAME=<your_convex_deployment_name>
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/ai-fitness-assistant.git
+git clone https://github.com/your-username/codeflex.git
 cd ai-fitness-assistant
 ```
 
@@ -107,21 +121,6 @@ codeflex/
 ```
 
 ---
-
-## 📄 Features
-
-- 🧠 **Smart AI Assistant**  
-  Talk to your AI assistant that listens, understands, and responds based on your fitness goals and current health conditions.
-- 🏋️ **Workout & 🥗 Diet Plans**  
-  Generates real-time, AI-curated workout and diet plans tailored to your needs and preferences.
-- 🔐 **User Auth with Clerk**  
-  Easily sign up or log in with GitHub, Google, or Email/Password. Only authenticated users can create or access fitness programs.
-- 🎬 **Program Management**  
-  Create multiple fitness programs. Automatically marks the latest one as active while preserving old ones for reference.
-
-
----
-
 
 ## 📄 License
 
