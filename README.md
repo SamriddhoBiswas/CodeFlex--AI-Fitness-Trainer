@@ -108,19 +108,20 @@ codeflex/
 
 ---
 
-## 📄 Features 
+## 📄 Features
 
-- 🧠 **Smart AI Assistant**
+- 🧠 **Smart AI Assistant**  
   Talk to your AI assistant that listens, understands, and responds based on your fitness goals and current health conditions.
 
-- 🏋️ **Workout & 🥗 Diet Plans**
+- 🏋️ **Workout & 🥗 Diet Plans**  
   Generates real-time, AI-curated workout and diet plans tailored to your needs and preferences.
 
-- 🔐 **User Auth with Clerk**
+- 🔐 **User Auth with Clerk**  
   Easily sign up or log in with GitHub, Google, or Email/Password. Only authenticated users can create or access fitness programs.
 
-- 🎬 **Program Management**
+- 🎬 **Program Management**  
   Create multiple fitness programs. Automatically marks the latest one as active while preserving old ones for reference.
+
 
 ---
 
