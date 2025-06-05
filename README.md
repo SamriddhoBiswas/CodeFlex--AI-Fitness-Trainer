@@ -60,7 +60,7 @@ CONVEX_DEPLOYMENT_NAME=<your_convex_deployment_name>
 
 ```
 git clone https://github.com/your-username/codeflex.git
-cd ai-fitness-assistant
+cd codeflex
 ```
 
 ### 2. Install Dependencies
