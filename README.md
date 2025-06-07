@@ -33,7 +33,7 @@ A smart, voice-enabled AI-powered fitness app that helps users achieve their hea
 - 🔐 **User Auth with Clerk**  
   Easily sign up or log in with GitHub, Google, or Email/Password. Only authenticated users can create or access fitness programs.
 - 🎬 **Program Management**  
-  Create multiple fitness programs. Automatically marks the latest one as active while preserving old ones for reference
+  Create multiple fitness programs. Automatically marks the latest one as active while preserving old ones for reference.
 
 
 ---
