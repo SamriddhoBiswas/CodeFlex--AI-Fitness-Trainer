@@ -118,7 +118,8 @@ codeflex/
 ├── tsconfig.json           # TypeScript compiler configuration
 └── README.md               # Project documentation
 
-``` 
+```
+
 ---
 
 ## 📄 License
