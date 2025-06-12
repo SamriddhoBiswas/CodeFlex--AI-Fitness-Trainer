@@ -8,7 +8,6 @@ A smart, voice-enabled AI-powered fitness app that helps users achieve their hea
 ---
 
 ## 🚀 Highlights
-
 - ⚙️ Built with **Next.js**, **React**, **Tailwind CSS**, and **Shadcn UI**
 - 🎙️ Voice AI Assistant powered by **Vapi**
 - 🧠 LLM integration with **Gemini AI**
