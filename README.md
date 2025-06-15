@@ -57,14 +57,18 @@ CONVEX_DEPLOYMENT_NAME=<your_convex_deployment_name>
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the Repository
+
 ```
 git clone https://github.com/your-username/codeflex.git
 cd codeflex
 ```
+
 ### 2. Install Dependencies
+
 ```
 npm install
 ```
+
 ### 3. Run the Development Server
 
 ```
