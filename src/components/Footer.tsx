@@ -25,6 +25,7 @@ const Footer = () => {
           </div>
 
           {/* Links */}
+          {/* Footer Links */}
           <div className="grid grid-cols-2 md:grid-cols-3 gap-x-12 gap-y-2 text-sm">
             <Link
               href="/about"
